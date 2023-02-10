@@ -9,6 +9,7 @@ galaxy_info:
       versions:
         - precise
         - trusty
+        - focal
   categories:
     - cloud
     - development
