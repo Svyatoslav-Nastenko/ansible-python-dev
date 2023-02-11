@@ -2,5 +2,5 @@
 python_dev_wheelhouse: "{{ansible_env.HOME}}/.pip/wheelhouse"
 python_dev_versions:
   - version: "3.8"
-  - version: "3.11"
+  - version: "3.10"
 python_dev_install_pypy: true
